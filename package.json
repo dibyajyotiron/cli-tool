@@ -1,0 +1,19 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "A cli tool example app!",
+  "main": "app.js",
+  "preferGlobal": true,
+  "bin": "./app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dibyajyoti Ghosal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "commander": "^4.0.1",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.0"
+  }
+}
